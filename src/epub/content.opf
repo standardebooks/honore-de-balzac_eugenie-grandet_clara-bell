@@ -41,13 +41,13 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman with a miserly father falls in love with her cousin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;M. Grandet is the richest man in the town of Saumur, a vine-grower, lessor, and ruthless businessman. He is also a miser—he lives in a decrepit house, parcels out sugar and eggs as if they will never be replenished, and lights only a single candle in the parlor at night. He is worth many millions, but he and his family live as paupers.&lt;/p&gt;
+			&lt;p&gt;His daughter, Eugénie, has no idea they are rich; austerity is all she has ever known. But the arrival of a handsome cousin from Paris, and the love that develops for him, causes her to begin to see things differently. Her cousin has been impoverished, and she wants to help. She takes notice of how many barrels of wine her father sells in a single season, and for how much. When she decides to help her cousin, her father’s reaction throws the family into crisis, and it is unclear how, or whether, it can resolved.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksbalzac03balz</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eug%C3%A9nie_Grandet</meta>
