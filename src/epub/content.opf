@@ -41,6 +41,10 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Human Comedy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
 		<dc:description id="description">A young woman with a miserly father falls in love with her cousin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;M. Grandet is the richest man in the town of Saumur, a vine-grower, lessor, and ruthless businessman. He is also a miser—he lives in a decrepit house, parcels out sugar and eggs as if they will never be replenished, and lights only a single candle in the parlor at night. He is worth many millions, but he and his family live as paupers.&lt;/p&gt;
