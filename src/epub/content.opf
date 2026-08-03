@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell</dc:identifier>
 		<dc:date>2025-02-24T20:12:28Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">A young woman with a miserly father falls in love with her cousin.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman with a miserly father falls in love with her cousin.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;M. Grandet, a vine-grower, lessor, and ruthless businessman, is the richest man in the town of Saumur. He’s also a miser: he lives in a decrepit house, parcels out sugar and eggs as if they’ll never be replenished, and lights only a single candle in the parlor at night. He’s worth many millions, but he and his family live as paupers.&lt;/p&gt;
 			&lt;p&gt;His daughter, Eugénie, has no idea they’re rich; austerity is all she has ever known. But the arrival of a handsome, impoverished cousin from Paris, and the love she develops for him, makes her begin to see things differently. When she decides to help her cousin, her father’s reaction throws the family into crisis, and it’s unclear how it can resolved—if it can be resolved at all.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksbalzac03balz</dc:source>
 		<meta property="schema:wordCount">75973</meta>
